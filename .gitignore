@@ -7,9 +7,6 @@ env/
 venv/
 .Python
 
-# Environment Variables
-.env
-
 # Local Scripts
 abrir_proyecto.bat
 
