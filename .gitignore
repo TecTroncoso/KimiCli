@@ -9,11 +9,3 @@ venv/
 
 # Local Scripts
 abrir_proyecto.bat
-
-# Application Data (Auth, Cookies, Logs)
-auth_token.txt
-auth_token
-kimi_cookies.json
-cookies
-last_login.txt
-last_login
